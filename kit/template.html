@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<style>
+@font-face{font-family:'Source Serif 4';src:url('../fonts/SourceSerif4.ttf');font-style:normal;font-weight:200 900}
+@font-face{font-family:'Source Serif 4';src:url('../fonts/SourceSerif4-Italic.ttf');font-style:italic;font-weight:200 900}
+@font-face{font-family:'Poppins';src:url('../fonts/Poppins-Regular.ttf');font-style:normal;font-weight:400}
+@font-face{font-family:'Poppins';src:url('../fonts/Poppins-Italic.ttf');font-style:italic;font-weight:400}
+html,body{margin:0;padding:0;background:#050505}
+.poster{width:1080px;height:1350px;box-sizing:border-box;position:relative;overflow:hidden;background-color:#050505;
+  background-image:linear-gradient(#262626 1px,transparent 1px),linear-gradient(90deg,#262626 1px,transparent 1px);
+  background-size:60px 60px;background-position:-1px -1px;font-family:'Poppins',sans-serif;color:#fff}
+.copy{position:absolute;top:150px;left:108px;width:880px}
+h1{margin:0;font-family:'Source Serif 4',Georgia,serif;font-weight:400;font-size:{{HEAD_SIZE}}px;line-height:1.0;letter-spacing:-0.02em}
+.hl{position:relative;display:inline-block;margin-top:18px;margin-left:-14px;padding:2px 22px 10px;background:#0E2A66}
+.hl span{font-family:'Source Serif 4',Georgia,serif;font-style:italic;font-size:{{HL_SIZE}}px;line-height:1.0;letter-spacing:-0.02em;white-space:nowrap}
+.bar{position:absolute;width:6px;background:#1F6FEB}
+.dot{position:absolute;width:18px;height:18px;border-radius:50%;background:#1F6FEB}
+.sub{margin:64px 0 0;font-size:40px;line-height:1.18;width:520px}
+.el{position:absolute;right:24px;bottom:0;width:600px;height:640px}
+.foot{position:absolute;left:108px;bottom:60px;font-size:26px;letter-spacing:0.02em;color:#BDBDB8}
+</style>
+</head>
+<body>
+<div class="poster">
+  <div class="copy">
+    <h1>{{HEADLINE}}</h1>
+    <div class="hl"><span>{{HIGHLIGHT}}</span>
+      <div class="bar" style="left:-4px;top:-14px;bottom:0"></div><div class="dot" style="left:-10px;top:-26px"></div>
+      <div class="bar" style="right:-4px;top:0;bottom:-14px"></div><div class="dot" style="right:-10px;bottom:-26px"></div>
+    </div>
+    <p class="sub">{{SUBLINE}}</p>
+  </div>
+  <svg class="el" viewBox="0 0 560 600" aria-hidden="true">{{ELEMENT}}</svg>
+  <div class="foot">www.imtiazz.me</div>
+</div>
+</body>
+</html>
