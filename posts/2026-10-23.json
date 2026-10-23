@@ -1,0 +1,17 @@
+{
+ "style": "v2",
+ "topic": "Anthropic + Theorem: Claude wrote machine-checked Rocq proofs that 239 OSS-Fuzz entry points across 123 open-source libraries never crash (published 2026-10-22)",
+ "kicker": "Dev tools",
+ "read": "why it matters",
+ "headline": "AI moved fuzz<br><i>tests</i> from",
+ "old": "no crash found",
+ "highlight": "never crashes",
+ "subline": "Machine-checked proofs now cover 239 fuzz targets across 123 <em>open-source</em> libraries.",
+ "tags": [
+  "formal proofs",
+  "open source",
+  "security"
+ ],
+ "head_size": 124,
+ "element": "<path d='M300 170 V230' stroke='#111110' stroke-width='7' stroke-linecap='round'/><circle cx='300' cy='170' r='9' fill='#F0EEE8' stroke='#111110' stroke-width='5'/><path d='M420 170 V230' stroke='#111110' stroke-width='7' stroke-linecap='round'/><circle cx='420' cy='170' r='9' fill='#F0EEE8' stroke='#111110' stroke-width='5'/><rect x='250' y='230' width='420' height='310' rx='30' fill='#F0EEE8' stroke='#111110' stroke-width='7'/><path d='M250 290 H670' stroke='#111110' stroke-width='6'/><circle cx='286' cy='260' r='9' fill='#111110'/><circle cx='316' cy='260' r='9' fill='none' stroke='#111110' stroke-width='5'/><circle cx='346' cy='260' r='9' fill='none' stroke='#111110' stroke-width='5'/><path d='M284 324 L306 340 L284 356' fill='none' stroke='#111110' stroke-width='7' stroke-linecap='round' stroke-linejoin='round'/><path d='M324 356 H470' stroke='#111110' stroke-width='4' stroke-dasharray='6 14' stroke-linecap='round'/><path d='M284 400 H330' stroke='#111110' stroke-width='4' stroke-dasharray='6 14' stroke-linecap='round'/><path d='M284 440 H320' stroke='#111110' stroke-width='4' stroke-dasharray='6 14' stroke-linecap='round'/><path d='M284 480 H330' stroke='#111110' stroke-width='4' stroke-dasharray='6 14' stroke-linecap='round'/><path d='M300 540 V585 H240' stroke='#111110' stroke-width='7' stroke-linecap='round' stroke-linejoin='round' fill='none'/><circle cx='240' cy='585' r='9' fill='#F0EEE8' stroke='#111110' stroke-width='5'/><circle cx='430' cy='440' r='74' fill='#D4FF3A' stroke='#111110' stroke-width='7'/><circle cx='430' cy='440' r='54' fill='none' stroke='#111110' stroke-width='3' stroke-dasharray='4 10' stroke-linecap='round'/><polyline points='398,442 422,466 464,414' fill='none' stroke='#111110' stroke-width='11' stroke-linecap='round' stroke-linejoin='round'/>"
+}
