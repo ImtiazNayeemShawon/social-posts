@@ -1,0 +1,13 @@
+{
+ "style": "v2",
+ "topic": "AWS Continuum GA: AI agent that finds, reproduces and patches code vulnerabilities and opens PRs; 89.0% on CyberGym-E2E (C/C++ memory-safety, self-reported)",
+ "kicker": "Security",
+ "read": "what changed",
+ "headline": "Security bugs<br>go <i>from</i>",
+ "old": "backlog tickets",
+ "highlight": "ready PRs",
+ "subline": "A new cloud agent finds and reproduces code bugs, then opens the fix as a <em>pull</em> request.",
+ "tags": ["app security", "AI agents", "dev tools"],
+ "head_size": 124,
+ "element": "<path d='M300 250 V190' stroke='#111110' stroke-width='7' stroke-linecap='round'/><circle cx='300' cy='180' r='10' fill='#F0EEE8' stroke='#111110' stroke-width='5'/><path d='M620 300 H660' stroke='#111110' stroke-width='7' stroke-linecap='round'/><path d='M248 420 H290' stroke='#111110' stroke-width='7' stroke-linecap='round'/><circle cx='240' cy='420' r='10' fill='#F0EEE8' stroke='#111110' stroke-width='5'/><path d='M455 200 L615 255 V400 C615 500 545 565 455 610 C365 565 295 500 295 400 V255 Z' fill='#F0EEE8' stroke='#111110' stroke-width='7' stroke-linejoin='round'/><path d='M455 240 L580 283 V398 C580 478 525 530 455 568 C385 530 330 478 330 398 V283 Z' fill='none' stroke='#111110' stroke-width='3' stroke-dasharray='4 12' stroke-linecap='round'/><circle cx='455' cy='395' r='78' fill='#D4FF3A' stroke='#111110' stroke-width='7'/><polyline points='418,398 445,425 495,368' fill='none' stroke='#111110' stroke-width='10' stroke-linecap='round' stroke-linejoin='round'/><circle cx='640' cy='300' r='10' fill='#111110'/>"
+}
