@@ -1,0 +1,17 @@
+{
+ "style": "v2",
+ "topic": "GitHub Octoverse 2026: AI agents started 40%+ of pull requests in Sept 2026 (17% in March), ~110M agent PRs/month; Copilot Fusion launched at Universe",
+ "kicker": "Dev tools",
+ "read": "by the numbers",
+ "headline": "Agent-made<br>PRs <i>jumped</i> from",
+ "old": "17% in March",
+ "highlight": "40%+ by Sept",
+ "subline": "New platform data: about 110M pull requests were started by AI agents in <em>one</em> month.",
+ "tags": [
+  "coding agents",
+  "pull requests",
+  "dev tools"
+ ],
+ "head_size": 124,
+ "element": "<rect x='290' y='170' width='340' height='400' rx='34' fill='#F0EEE8' stroke='#111110' stroke-width='7'/><path d='M326 214 H600' stroke='#111110' stroke-width='3' stroke-dasharray='4 12' stroke-linecap='round'/><path d='M350 280 V460' stroke='#111110' stroke-width='7' stroke-linecap='round'/><path d='M484 452 V340 Q484 294 438 294 H404' stroke='#111110' stroke-width='7' stroke-linecap='round' fill='none'/><polyline points='428,268 400,294 428,320' fill='none' stroke='#111110' stroke-width='7' stroke-linecap='round' stroke-linejoin='round'/><circle cx='350' cy='260' r='22' fill='#F0EEE8' stroke='#111110' stroke-width='7'/><circle cx='350' cy='490' r='22' fill='#F0EEE8' stroke='#111110' stroke-width='7'/><circle cx='484' cy='492' r='36' fill='#D4FF3A' stroke='#111110' stroke-width='7'/><path d='M392 390 H444' stroke='#111110' stroke-width='3' stroke-dasharray='4 12' stroke-linecap='round'/><path d='M392 418 H432' stroke='#111110' stroke-width='3' stroke-dasharray='4 12' stroke-linecap='round'/><circle cx='520' cy='192' r='8' fill='#111110'/><circle cx='546' cy='192' r='8' fill='#F0EEE8' stroke='#111110' stroke-width='5'/>"
+}
